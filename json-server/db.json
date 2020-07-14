@@ -1,0 +1,188 @@
+{
+  "pets": [
+    {
+      "id": 0,
+      "name": "Garryy",
+      "image": "pets/dog1.jfif",
+      "category": "mains",
+      "label": "Hot",
+      "price": "4.99",
+      "featured": true,
+      "description": "A unique Pug which thrives on human companionship , it is sturdy, compact with comical face, deep wrinkles around big,dark eyes and flat round face."
+    },
+    {
+      "id": 1,
+      "name": "Robin",
+      "image": "pets/dog5.jfif",
+      "category": "appetizer",
+      "label": "",
+      "price": "1.99",
+      "featured": false,
+      "description": "Robin has sharp features, perked up ears and curly tail.Is always readyto go out with you and can lighten your mood after a long hectic day."
+    },
+    {
+      "id": 2,
+      "name": "Goldeyy",
+      "image": "pets/gog3.jfif",
+      "category": "appetizer",
+      "label": "New",
+      "price": "1.99",
+      "featured": false,
+      "description": "It is a mediun-large gun dog, who is utmost reliable, kind, trustworthy and friendly.It has high tolerance to pain and can tolerate injuries that other dogs can't."
+    },
+    {
+      "id": 3,
+      "name": "Blackyy",
+      "image": "pets/dog4.jfif",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Most fun loving pup with full of energy and loves almost everyone. It is majestic,sweet and adorable, it is fun having him around."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "petId": 0,
+      "rating": 5,
+      "comment": "Great work,absolutely loved it!",
+      "author": "John ",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "petId": 0,
+      "rating": 4,
+      "comment": "How can I buy it?!",
+      "author": "Paul",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "petId": 0,
+      "rating": 3,
+      "comment": "Loved it, just loved it!",
+      "author": "Mohit",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "petId": 1,
+      "rating": 5,
+      "comment": "Great work,absolutely loved it!",
+      "author": "John Len",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "petId": 1,
+      "rating": 3,
+      "comment": "Loved it, just Loved it!",
+      "author": "Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "petId": 1,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "Centy",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "petId": 2,
+      "rating": 5,
+      "comment": "Great work,absolutely loved it!",
+      "author": "Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "petId": 2,
+      "rating": 3,
+      "comment": "Loved it, just Loved it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "petId": 3,
+      "rating": 5,
+      "comment": "Great work,absolutely loved it!!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "petId": 3,
+      "rating": 3,
+      "comment": "Woahh, amazing!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "petId": 0,
+      "author": "ram",
+      "comment": "nice",
+      "date": "2020-07-14T13:52:55.946Z",
+      "id": 10
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Browny Beanie",
+      "image": "pets/dog6.jfif",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": " He has adorable face, with its big brown or hazel eyes set off by long, houndy ears set low on a broad head.He is curious, clever and energetic who requires of plenty of playtime."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Purvi Sharma",
+      "image": "pets/founder.png",
+      "designation": "Chief Epicurious Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Our CEO, Purvi, credits her hardworking to all the animal welfare activists who undertook the arduous journey to the shores of their Society."
+    },
+    {
+      "id": 1,
+      "name": "Purvi Sharma",
+      "image": "pets/founder.png",
+      "designation": "Executive Chief",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Founder and chief executive of WAB, who believes in welfare of society as a whole, including all the ones who cannot speak for themselves."
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    },
+    {
+      "firstname": "Purvi",
+      "lastname": "Sharma",
+      "telnum": "222222",
+      "email": "mnb@abc.ab",
+      "agree": false,
+      "contactType": "Email",
+      "message": "good job!",
+      "date": "2020-07-12T13:09:42.531Z",
+      "id": 2
+    }
+  ]
+}
